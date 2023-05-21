@@ -1,11 +1,8 @@
 <!--
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Renzo Elias</h1>
+-->
+
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)][website]
--->
-
-<!--
-##<h1 align="center">Hi [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website], I'm Renzo Elias</h1>
--->
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Renzo Elias</h1>
 
 <h3 align="center">A passionate FullStack Developer from Perú</h3>
