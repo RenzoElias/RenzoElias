@@ -1,11 +1,5 @@
-### Renzo Elias | Full Stack Developer
+# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm Renzo Elias
 ##
-<div align="left">
-  <a href="https://github.com/renzoelias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renzoelias&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs,prs,issues,stars"/>
-</div>
-  
- 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="RenzoElias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
