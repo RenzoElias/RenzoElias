@@ -1,4 +1,4 @@
-###  😃👍
+### Renzo Elias | Full Stack Developer
 ##
 <div align="left">
   <a href="https://github.com/renzoelias">
